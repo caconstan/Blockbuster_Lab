@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\bin\Debug\netcoreapp3.1\Blockbuster Lab.exe
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\bin\Debug\netcoreapp3.1\Blockbuster Lab.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\bin\Debug\netcoreapp3.1\Blockbuster Lab.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\bin\Debug\netcoreapp3.1\Blockbuster Lab.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\bin\Debug\netcoreapp3.1\Blockbuster Lab.dll
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\bin\Debug\netcoreapp3.1\Blockbuster Lab.pdb
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.dll
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.pdb
+C:\Users\Chris\Documents\GC bootcamp\week3\Blockbuster Lab\Blockbuster Lab\obj\Debug\netcoreapp3.1\Blockbuster Lab.genruntimeconfig.cache
